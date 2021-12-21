@@ -1,6 +1,3 @@
-# Project-Basdat-Uwu
-Abin, Aiko, Firza, Surya
-
 # Proyek Basis Data Si Bandar
 
 ![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/1639984936681.png)
@@ -9,81 +6,67 @@ Abin, Aiko, Firza, Surya
 
 ---
 
-### Table of Contents
-You're sections headers will be used to reference location of destination.
+### Daftar Isi
 
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [License](#license)
-- [Author Info](#author-info)
+- [Deskripsi](#deskripsi)
+- [Anggota Kelompok](#anggota-kelompok)
+- [Website](#website)
+- [Doumentasi Kode](#dokumentasi-kode)
 
 ---
 
-## Description
+## Deskripsi
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat berjalan konsisten dan sistematis karena proses pembukuannya dibantu oleh sistem dan database yang telah dibuat.
 
-#### Technologies
+#### Dikembangkan dengan Bahasa Pemrograman
 
-- Technology 1
-- Technology 2
-
-[Back To The Top](#read-me-template)
-
----
-
-## How To Use
-
-#### Installation
-
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
+- HTML
+- PHP
+- CSS
 
 ---
 
-## References
-[Back To The Top](#read-me-template)
+## Anggota Kelompok
+
+| Nama                  | NIM           | Username Github                   |
+| :-------------------- | :------------ | :-------------------------------- |
+| Ahmad Bintang Arif    | G6401201025   | https://github.com/AhmadBintangA  |
+| Aiko Nur Fajrin D     | G6401201062   | https://github.com/aiwillsurvaiv  |
+| M Hadziq Firza R      | G6401201055   | https://github.com/MuhamadFirza   |
+| Surya Fatihah H       | G6401201036   | https://github.com/Jeeefry        |
 
 ---
 
-## License
+## Website
 
-MIT License
+#### 1. Login
 
-Copyright (c) [2017] [James Q Quick]
+![](https://github.com/aiwillsurvaiv/test/blob/main/login.jpeg)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+#### 2. Halaman Utama
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+![](https://github.com/aiwillsurvaiv/test/blob/main/halaman-utama.png)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+#### 3. Update Saldo
 
-[Back To The Top](#read-me-template)
+![](https://github.com/aiwillsurvaiv/test/blob/main/update-saldo.png)
+
+#### 4. Catat Pengeluaran
+
+![](https://github.com/aiwillsurvaiv/test/blob/main/catat-pengeluaran.png)
+
+#### 5. Rekapan Transaksi
+
+![](https://github.com/aiwillsurvaiv/test/blob/main/rekapan-transaksi.png)
+
+#### 6. Daftar Inventaris
+
+![](https://github.com/aiwillsurvaiv/test/blob/main/daftar-inventaris.png)
 
 ---
 
-## Author Info
+## Dokumentasi Kode
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+<p><img align="right" alt="gif" src="https://github.com/aiwillsurvaiv/test/blob/main/%E2%97%8F-formtransaksi.php-basdatfinal-Visual-Studio-Code-2021-12-21-16-12-30.gif" /></p>
 
-[Back To The Top](#read-me-template)
