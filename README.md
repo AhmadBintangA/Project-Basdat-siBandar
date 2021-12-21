@@ -58,14 +58,20 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 
 #### 5. Rekapan Transaksi
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/rekapan-transaksi.png)
+![](https://github.com/aiwillsurvaiv/test/blob/main/catat%20pengeluaran%20new.png)
 
 #### 6. Daftar Inventaris
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/daftar-inventaris.png)
+![](https://github.com/aiwillsurvaiv/test/blob/main/daftar%20inventaris%20new.png)
 
 ---
 
-## Dokumentasi Kode
+## Dokumentasi Kode dan SQL
+
+#### 1. Dokumentasi Kode
 
 <p><img align="right" alt="gif" src="https://github.com/aiwillsurvaiv/test/blob/main/%E2%97%8F-formtransaksi.php-basdatfinal-Visual-Studio-Code-2021-12-21-16-12-30.gif" /></p>
+
+#### 2. Dokumentasi SQL
+
+![](https://github.com/aiwillsurvaiv/test/blob/main/sql.png)
