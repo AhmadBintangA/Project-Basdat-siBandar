@@ -42,27 +42,27 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 
 #### 1. Login
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/login.jpeg)
+![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/login.jpg)
 
 #### 2. Halaman Utama
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/halaman-utama.png)
+![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/halaman-utama.png)
 
 #### 3. Update Saldo
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/update-saldo.png)
+![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/update-saldo.png)
 
 #### 4. Catat Pengeluaran
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/catat-pengeluaran.png)
+![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/catat-pengeluaran.png)
 
 #### 5. Rekapan Transaksi
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/catat%20pengeluaran%20new.png)
+![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/catat%20pengeluaran%20new.png)
 
 #### 6. Daftar Inventaris
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/daftar%20inventaris%20new.png)
+![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/daftar%20inventaris%20new.png)
 
 ---
 
@@ -70,8 +70,8 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 
 #### 1. Dokumentasi Kode
 
-<p><img align="right" alt="gif" src="https://github.com/aiwillsurvaiv/test/blob/main/%E2%97%8F-formtransaksi.php-basdatfinal-Visual-Studio-Code-2021-12-21-16-12-30.gif" /></p>
+<p><img align="right" alt="gif" src="https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/%E2%97%8F-formtransaksi.php-basdatfinal-Visual-Studio-Code-2021-12-21-16-12-30.gif" /></p>
 
 #### 2. Dokumentasi SQL
 
-![](https://github.com/aiwillsurvaiv/test/blob/main/sql.png)
+![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/sql.png)
