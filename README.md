@@ -12,6 +12,8 @@
 - [Anggota Kelompok](#anggota-kelompok)
 - [Website](#website)
 - [Doumentasi Kode](#dokumentasi-kode)
+- [Doumentasi Video](#link-video)
+- [Laporan](#link-laporan)
 
 ---
 
@@ -80,3 +82,7 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 
 ## Link Video Presentasi di Youtube
 [![Watch the video](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/unknown.png)](https://youtu.be/UA5dIDzlrvo)
+
+---
+## Link Laporan
+[![Go To](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/Gdocs.png)](https://docs.google.com/document/d/1JmoH2OMATBKtHjSRpr-K3c6MdUyG62H6ADZRrzYr2PQ/edit)
