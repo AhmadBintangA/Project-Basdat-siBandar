@@ -75,3 +75,8 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 #### 2. Dokumentasi SQL
 
 ![](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/sql.png)
+
+---
+
+## Link Video Presentasi di Youtube
+(https://youtu.be/UA5dIDzlrvo)
