@@ -12,6 +12,7 @@
 - [Anggota Kelompok](#anggota-kelompok)
 - [Website](#website)
 - [Doumentasi Kode](#dokumentasi-kode)
+- [Referensi](#referensi)
 
 ---
 
@@ -78,5 +79,13 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 
 ---
 
-## Link Video Presentasi di Youtube
+## Referensi
+
+#### 1. Video Presentasi di YouTube
 (https://youtu.be/UA5dIDzlrvo)
+
+#### 2. Laporan Proyek di Google Docs
+(https://docs.google.com/document/d/1JmoH2OMATBKtHjSRpr-K3c6MdUyG62H6ADZRrzYr2PQ/edit?usp=sharing)
+
+
+
