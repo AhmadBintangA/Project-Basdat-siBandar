@@ -11,9 +11,9 @@
 - [Deskripsi](#deskripsi)
 - [Anggota Kelompok](#anggota-kelompok)
 - [Website](#website)
-- [Doumentasi Kode](#dokumentasi-kode)
-- [Doumentasi Video](#link-video)
-- [Laporan](#link-laporan)
+- [Doumentasi Kode](#Dokumentasi-Kode-dan-SQL)
+- [Doumentasi Video](#Link-Video-Presentasi-di-Youtube)
+- [Laporan](#Link-Laporan)
 
 ---
 
