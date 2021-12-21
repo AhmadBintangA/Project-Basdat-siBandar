@@ -79,4 +79,4 @@ Aplikasi berbasis web yang membantu bendahara sehingga proses pembukuan dapat be
 ---
 
 ## Link Video Presentasi di Youtube
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/UA5dIDzlrvo)
+[![Watch the video](https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/unknown.png)](https://youtu.be/UA5dIDzlrvo)
